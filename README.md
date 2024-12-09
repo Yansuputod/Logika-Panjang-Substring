@@ -41,9 +41,8 @@ Dalam string `aaabbcccaaaac`, kita akan menghitung panjang substring berturut-tu
 
 ## 🚀 Instalasi dan Penggunaan
 
-Silakan lihat kode dan contoh lebih lanjut di sini: [Lihat Kode Contoh](https://github.com/username/repository-name/blob/main/src/code.dart)
+Silakan lihat kode dan contoh lebih lanjut di sini: [Yansuputod/Logika-Panjang-Substring](https://github.com/Yansuputod/Logika-Panjang-Substring/blob/main/main.dart)
 
-Jika Anda memiliki pertanyaan atau saran, buka [Issue pada Repository ini](https://github.com/username/repository-name/issues).
 
 ---
 
